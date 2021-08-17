@@ -4,3 +4,15 @@
 [submodule "java/consolex"]
 	path = java/consolex
 	url = https://github.com/wniemiec-io-java/consolex
+[submodule "java/file-searcher"]
+	path = java/file-searcher
+	url = https://github.com/wniemiec-io-java/file-searcher
+[submodule "java/argument-file"]
+	path = java/argument-file
+	url = https://github.com/wniemiec-io-java/argument-file
+[submodule "java/text-file-manager"]
+	path = java/text-file-manager
+	url = https://github.com/wniemiec-io-java/text-file-manager
+[submodule "java/csv-file-manager"]
+	path = java/csv-file-manager
+	url = https://github.com/wniemiec-io-java/csv-file-manager
