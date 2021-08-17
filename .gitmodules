@@ -1,0 +1,6 @@
+[submodule "cpp/consolex"]
+	path = cpp/consolex
+	url = https://github.com/wniemiec-io-cpp/consolex
+[submodule "java/consolex"]
+	path = java/consolex
+	url = https://github.com/wniemiec-io-java/consolex
