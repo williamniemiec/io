@@ -16,3 +16,6 @@
 [submodule "java/csv-file-manager"]
 	path = java/csv-file-manager
 	url = https://github.com/wniemiec-io-java/csv-file-manager
+[submodule "java/terminal"]
+	path = java/terminal
+	url = https://github.com/wniemiec-io-java/terminal
