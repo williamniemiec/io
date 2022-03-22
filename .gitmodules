@@ -22,3 +22,6 @@
 [submodule "java/jar-file-manager"]
 	path = java/jar-file-manager
 	url = https://github.com/wniemiec-io-java/jar-file-manager
+[submodule "java/babel-transpiler"]
+	path = java/babel-transpiler
+	url = https://github.com/wniemiec-io-java/babel-transpiler
